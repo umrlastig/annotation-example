@@ -1,0 +1,13 @@
+{
+  "dates": [
+    "2011",
+    "2021"
+  ],
+  "wmts": [
+    "https://data.geopf.fr/wmts?ORTHOIMAGERY.ORTHOPHOTOS2011",
+    "https://data.geopf.fr/wmts?ORTHOIMAGERY.ORTHOPHOTOS"
+  ],
+  "samples": [
+    "example/1/tasks.json"
+  ]
+}
