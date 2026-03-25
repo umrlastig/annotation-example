@@ -2,7 +2,18 @@
   "tasks": [
     {
       "task": "example/1/data_142678.geojson",
-      "annotations": []
+      "annotations": [
+        {
+          "username": "JusteRaimbault",
+          "types": {
+            "u": [
+              "no change"
+            ]
+          },
+          "quality": false,
+          "comment": ""
+        }
+      ]
     },
     {
       "task": "example/1/data_142744.geojson",
