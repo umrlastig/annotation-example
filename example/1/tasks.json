@@ -1,3 +1,68 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "task": "example/1/data_142678.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_142744.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_327488.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_142689.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_142876.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_327489.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_142698.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_142877.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_66134.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_142700.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_142878.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_66161.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_142701.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_327480.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_142743.geojson",
+      "annotations": []
+    },
+    {
+      "task": "example/1/data_327483.geojson",
+      "annotations": []
+    }
+  ]
 }
