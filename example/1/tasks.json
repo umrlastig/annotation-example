@@ -37,6 +37,16 @@
           },
           "quality": false,
           "comment": ""
+        },
+        {
+          "username": "julienperret",
+          "types": {
+            "a": [
+              "no change"
+            ]
+          },
+          "quality": false,
+          "comment": ""
         }
       ]
     },
