@@ -6,5 +6,5 @@
   "useIsomorphicProxy": "true",
   "corsProxyIsomorphic": "https://cors.isomorphic-git.org",
   "corsProxyDefault": "https://gitcorsproxy.vercel.app/api/cors",
-  "annotationSetup": {"example/samples.json":[["change","no change"]]}
+  "annotationSetup": {"example/samples.json":[["change","no change"],["1-1","0-1","1-0","m-n"]]}
 }
