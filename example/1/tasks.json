@@ -12,6 +12,16 @@
           },
           "quality": false,
           "comment": ""
+        },
+        {
+          "username": "julienperret",
+          "types": {
+            "a": [
+              "no change"
+            ]
+          },
+          "quality": false,
+          "comment": ""
         }
       ]
     },
@@ -23,6 +33,16 @@
           "types": {
             "u": [
               "change"
+            ]
+          },
+          "quality": false,
+          "comment": ""
+        },
+        {
+          "username": "julienperret",
+          "types": {
+            "a": [
+              "no change"
             ]
           },
           "quality": false,
