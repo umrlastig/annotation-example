@@ -2,15 +2,48 @@
   "tasks": [
     {
       "task": "example/1/data_142678.geojson",
-      "annotations": []
+      "annotations": [
+        {
+          "username": "JusteRaimbault",
+          "types": {
+            "u": [
+              "no change"
+            ]
+          },
+          "quality": false,
+          "comment": ""
+        }
+      ]
     },
     {
       "task": "example/1/data_142744.geojson",
-      "annotations": []
+      "annotations": [
+        {
+          "username": "JusteRaimbault",
+          "types": {
+            "u": [
+              "change"
+            ]
+          },
+          "quality": false,
+          "comment": ""
+        }
+      ]
     },
     {
       "task": "example/1/data_327488.geojson",
-      "annotations": []
+      "annotations": [
+        {
+          "username": "JusteRaimbault",
+          "types": {
+            "u": [
+              "change"
+            ]
+          },
+          "quality": false,
+          "comment": ""
+        }
+      ]
     },
     {
       "task": "example/1/data_142689.geojson",
