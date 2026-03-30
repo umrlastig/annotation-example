@@ -8,6 +8,7 @@ cp ../config.json annotator/src/main/resources
 cd annotator
 APPCOMMIT=`git rev-parse --short HEAD`
 sbt fullLinkJS
+npm install
 npm run build
 cd ../..
 git checkout gh-pages
