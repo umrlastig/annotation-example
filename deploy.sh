@@ -13,6 +13,8 @@ npm run build
 cd ../..
 git checkout gh-pages
 rm -rf assets
+mv tmp/annotator/dist/* .
+git add -A
 git commit -m "Deploy from app:$APPCOMMIT and data:$DATACOMMIT"
 git push origin gh-pages
 git checkout main
