@@ -67,7 +67,16 @@
     },
     {
       "task": "example/1/data_142689.geojson",
-      "annotations": []
+      "annotations": [
+        {
+          "username": "JusteRaimbault",
+          "types": [
+            "no change"
+          ],
+          "quality": false,
+          "comment": ""
+        }
+      ]
     },
     {
       "task": "example/1/data_142876.geojson",
