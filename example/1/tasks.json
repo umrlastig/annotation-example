@@ -80,7 +80,17 @@
     },
     {
       "task": "example/1/data_142876.geojson",
-      "annotations": []
+      "annotations": [
+        {
+          "username": "JusteRaimbault",
+          "types": [
+            "no change",
+            "m-n"
+          ],
+          "quality": false,
+          "comment": ""
+        }
+      ]
     },
     {
       "task": "example/1/data_327489.geojson",
