@@ -4,8 +4,8 @@
     "2021"
   ],
   "wmts": [
-    "https://data.geopf.fr/wmts?ORTHOIMAGERY.ORTHOPHOTOS2011",
-    "https://data.geopf.fr/wmts?ORTHOIMAGERY.ORTHOPHOTOS"
+    "https://data.geopf.fr/wmts?ORTHOIMAGERY.ORTHOPHOTOS2011&style=NORMAL",
+    "https://data.geopf.fr/wmts?ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal"
   ],
   "samples": [
     "example/1/tasks.json"
