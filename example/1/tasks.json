@@ -193,6 +193,14 @@
           ],
           "quality": false,
           "comment": ""
+        },
+        {
+          "username": "create_conflict",
+          "types": [
+            "no change"
+          ],
+          "quality": false,
+          "comment": ""
         }
       ]
     },
