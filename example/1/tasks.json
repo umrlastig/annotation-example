@@ -253,7 +253,16 @@
     },
     {
       "task": "example/1/data_142743.geojson",
-      "annotations": []
+      "annotations": [
+        {
+          "username": "julienperret",
+          "types": [
+            "no change"
+          ],
+          "quality": false,
+          "comment": ""
+        }
+      ]
     },
     {
       "task": "example/1/data_327483.geojson",
