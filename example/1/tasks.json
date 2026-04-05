@@ -65,14 +65,6 @@
           "comment": ""
         },
         {
-          "username": "julien",
-          "types": [
-            "no change"
-          ],
-          "quality": false,
-          "comment": ""
-        },
-        {
           "username": "create_conflict",
           "types": [
             "no change"
@@ -457,14 +449,6 @@
         },
         {
           "username": "create_conflict",
-          "types": [
-            "no change"
-          ],
-          "quality": false,
-          "comment": ""
-        },
-        {
-          "username": "julien",
           "types": [
             "no change"
           ],
