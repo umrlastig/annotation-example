@@ -5,21 +5,17 @@
       "annotations": [
         {
           "username": "JusteRaimbault",
-          "types": {
-            "u": [
-              "no change"
-            ]
-          },
+          "types": [
+            "no change"
+          ],
           "quality": false,
           "comment": ""
         },
         {
           "username": "julienperret",
-          "types": {
-            "a": [
-              "no change"
-            ]
-          },
+          "types": [
+            "no change"
+          ],
           "quality": false,
           "comment": ""
         },
@@ -46,21 +42,17 @@
       "annotations": [
         {
           "username": "JusteRaimbault",
-          "types": {
-            "u": [
-              "change"
-            ]
-          },
+          "types": [
+            "change"
+          ],
           "quality": false,
           "comment": ""
         },
         {
           "username": "julienperret",
-          "types": {
-            "a": [
-              "no change"
-            ]
-          },
+          "types": [
+            "no change"
+          ],
           "quality": false,
           "comment": ""
         },
@@ -95,11 +87,9 @@
       "annotations": [
         {
           "username": "JusteRaimbault",
-          "types": {
-            "u": [
-              "change"
-            ]
-          },
+          "types": [
+            "change"
+          ],
           "quality": false,
           "comment": ""
         },
